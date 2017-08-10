@@ -9,7 +9,7 @@ h1{
 nav{
   font-size: 18px;
 }
-#home{
-  color: blue
+.home{
+  color: white
   background-image: url(../../Resources/Images/the-flatiron-building.png);
 }
