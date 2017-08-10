@@ -2,6 +2,14 @@ html{
   font-family: Helvetica;
   text-align: center;
 }
+h1{
+  font-size: 70px;
+  font-weight:bold;
+}
+nav{
+  font-size: 18px;
+}
 #home{
-  background-image:url("../../Resources/Images/the-flatiron-building.png");
+  color: blue
+  background-image: url(../../Resources/Images/the-flatiron-building.png);
 }
