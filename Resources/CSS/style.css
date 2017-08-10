@@ -5,12 +5,9 @@ html{
 h1{
   font-size: 70px;
   font-weight:bold;
-  background image: url("../Resources/Images/the-flatiron-building.png")
-  color:white
+  background image: url("../Resources/Images/the-flatiron-building.png");
+  color:white;
 }
 nav{
   font-size: 18px;
-}
-.banner_navigation{
-  color: white
 }
