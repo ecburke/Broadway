@@ -1,16 +1,43 @@
 html{
   font-family: Helvetica;
   text-align: center;
+  background size; cover;
 }
 h1{
   font-size: 70px;
   font-weight: bold;
 }
 .banners{
-  color: white;
+/*Main banner and sub-banner with flatiron background image*/
   background-image: url("../../Resources/Images/the-flatiron-building.png");
+  color: white;
 }
-
-nav{
+a{
+/*all navigation hyperlinks at the top and bottom*/
   font-size: 18px;
+  color: white;
+}
+h2{
+/*'Our Processes' header*/
+  font-size: 32px
+  font-weight: bold;
+}
+h3{
+/*All sub-section headers*/
+  font-size: 23px;
+  font-weight: bold;
+}
+p{
+/*Process descriptions and info about portfolio, hiring, and contact info*/
+  font-size: 14px
+}
+footer{
+/*copyright and second set of navigation links*/
+  text-align: left;
+  background-color: dimgray;
+  word-wrap: normal;
+}
+#copyright{
+  font-size: 11px;
+  color: white;
 }
